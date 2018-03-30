@@ -1,15 +1,15 @@
 # snoodump
-Swift command line tool to download images from reddit
+snoodump is a Swift command line tool to quickly download lots of images from reddit
 
 
 download images from /r/pics:
 
-snoodump.swift
+```snoodump.swift```
 
 download images from /r/subreddit:
 
-snoodump.swift -s subreddit
+```snoodump.swift -s subreddit```
 
 download images from a random subreddit:
 
-snoodump.swift -r
+```snoodump.swift -r```
